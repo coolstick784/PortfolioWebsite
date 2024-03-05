@@ -1,0 +1,18 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+defaults:  # The defaults key will be applied to all chapters and sub-sections
+  titlesonly: True
+chapters:
+- file: food (3) 
+  title: Food Image Classification
+- file: fitbit
+  title: Fitbit Data Analysis
+- file: loan_data
+  title: Loan Approval Prediction
+- file: BrockPurdy (1)
+  title: Brock Purdy 2022 Season Analysis
+- file: Tanking
+  title: Tanking Paper
